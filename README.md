@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ravi Teja
 =================================================================================================================================
 
-Full Stack Developer
+SalesForce Developer
 --------------------
 
 I've been learning to code for 1year, after switching careers. I started with HTML, but have already found a passion for Full Stack Development
 
 * 🌍  I'm based in Virtual
-* 🖥️  See my portfolio at [MyPortfolio](http://portfoliomyapp.ccbp.tech/)
+* 🖥️  See my portfolio at [MyPortfolio](https://www.salesforce.com/trailblazer/rteja317))
 * ✉️  You can contact me at [ghub7995@gmail.com](mailto:ghub7995@gmail.com)
-* 🚀  I'm currently working on [MERN](http://github.com/MERN-Stackers)
-* 🧠  I'm learning MERN
+* 🚀  I'm currently working on [Omnistudio]
+* 🧠  I'm learning Omnistudio
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  Love for MERN
+* ⚡  Love for Salesforce
 
 <a href="https://www.github.com/Ravi-Teja-799" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ravi-Teja-799?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
